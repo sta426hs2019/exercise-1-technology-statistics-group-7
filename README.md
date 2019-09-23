@@ -1,7 +1,7 @@
 # exercise-1-technology-statistics-group-7
 
 
-### Microarrays
+# Microarrays
 
 ## This is a general description of a Microarray 
 
