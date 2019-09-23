@@ -7,6 +7,7 @@ A microarray is a multiplex lab-on-a-chip. It is a two-dimensional array on a so
 
 ## Application
 
+
 Two major applications: gene expression analysis and genetic variation analysis.
 
 ## Statistics
