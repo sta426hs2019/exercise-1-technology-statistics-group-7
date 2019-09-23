@@ -2,10 +2,6 @@
 
 
 ### Microarrays
----
-title: "group7-exercise 2 - Microarray"
-output: html_document
----
 
 ## This is a general description of a Microarray 
 
