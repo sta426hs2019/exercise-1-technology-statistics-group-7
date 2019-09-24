@@ -3,7 +3,7 @@
 
 # Microarrays
 
-*Group 7*
+* **Group 7** *
 
 *Anara2018* <br /> 
 *kthumf* <br /> 
