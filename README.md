@@ -7,7 +7,7 @@
 
 A microarray is a multiplex lab-on-a-chip. It is a two-dimensional array on a solid substrate (usually a glass slide or silicon thin-film cell) that assays (tests) large amounts of biological material using high-throughput screening miniaturized, multiplexed and parallel processing and detection methods. 
 
-![Schematic representation of microarray](https://images.app.goo.gl/H7oPNU6gmyopa5Yy7)
+![Schematic representation of microarray](https://cmr.asm.org/content/cmr/22/4/611/F2.large.jpg?width=800&height=600&carousel=1)
 
 
 ## You will find below several links with a more general descriptions of this technique: 
