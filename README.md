@@ -3,11 +3,11 @@
 
 # Microarrays
 
-*Authors*
+*Group 7*
 
-Anara2018 <br /> 
+*Anara2018 <br /> 
 kthumf <br /> 
-AnaEfimova
+AnaEfimova *
 
 ## This is a general description of a Microarray 
 
