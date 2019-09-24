@@ -5,8 +5,8 @@
 
 *Authors*
 
-Anara2018/
-kthumf/
+Anara2018 <br /> 
+kthumf <br /> 
 AnaEfimova
 
 ## This is a general description of a Microarray 
