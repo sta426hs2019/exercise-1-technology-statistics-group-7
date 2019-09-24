@@ -22,6 +22,7 @@ A microarray is a multiplex lab-on-a-chip. It is a two-dimensional array on a so
 
 * [A publication describing the microarray method & its application is biomedical sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
 
+* [Youtube video explaining principle of action](https://youtu.be/6ZzFihESjp0)
 
 ## Application
 
