@@ -12,8 +12,7 @@ A microarray is a multiplex lab-on-a-chip. It is a two-dimensional array on a so
 
 * [General description of Microarray technique in Wikipedia](https://en.wikipedia.org/wiki/Microarray)
 
-* [A publication describing the microarray method & its application is biomedical sciences] 
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
+* [A publication describing the microarray method & its application is biomedical sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
 
 
 ## Application
