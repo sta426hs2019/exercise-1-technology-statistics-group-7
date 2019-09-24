@@ -5,9 +5,9 @@
 
 *Group 7*
 
-*Anara2018 <br /> 
-kthumf <br /> 
-AnaEfimova *
+*Anara2018* <br /> 
+*kthumf* <br /> 
+*AnaEfimova*
 
 ## This is a general description of a Microarray 
 
