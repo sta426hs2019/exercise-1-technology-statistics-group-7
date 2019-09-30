@@ -25,4 +25,14 @@ A microarray is a multiplex lab-on-a-chip. It is a two-dimensional array on a so
 * [Youtube video explaining principle of action](https://youtu.be/6ZzFihESjp0)
 
 
+## Statistical Methods 
+
+There are several statistical methods used for microarray data analysis. 
+Detailed description on all currently existing statistical methods could be found in the following summary: 
+* [Book on all existing statistical methods](https://www.researchgate.net/publication/294731832_Statistical_Methods_for_Microarray_Data_Analysis_Methods_and_Protocols) 
+
+There have been a number of review articles on the computation methods used in microarray data analysis. Such as: 
+
+* [Statistical Considerations for Analysis of Microarray Experiments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3906917/) 
+
 
