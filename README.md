@@ -15,15 +15,6 @@ A microarray is a multiplex lab-on-a-chip. It is a two-dimensional array on a so
 
 ![Schematic representation of microarray](https://cmr.asm.org/content/cmr/22/4/611/F2.large.jpg?width=800&height=600&carousel=1)
 
-
-## You will find below several links with a more general descriptions of this technique: 
-
-* [General description of Microarray technique in Wikipedia](https://en.wikipedia.org/wiki/Microarray)
-
-* [A publication describing the microarray method & its application is biomedical sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
-
-* [Youtube video explaining principle of action](https://youtu.be/6ZzFihESjp0)
-
 ## Application
 
 Two major applications: gene expression analysis and genetic variation analysis.
@@ -32,3 +23,8 @@ Two major applications: gene expression analysis and genetic variation analysis.
 
 ## Resources
 
+* [General description of Microarray technique in Wikipedia](https://en.wikipedia.org/wiki/Microarray)
+
+* [A publication describing the microarray method & its application is biomedical sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
+
+* [Youtube video explaining principle of action](https://youtu.be/6ZzFihESjp0)
